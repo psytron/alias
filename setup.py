@@ -12,7 +12,7 @@ setup(
         'alpaca_trade_api',
         'v20',
         'ccxt'],# DEPENDENCIES 
-    version='0.3.8',
+    version='0.3.9',
     license='PSYTRON', # Can be anything
     description='Alias is the container.',
     long_description=open('PYPI.md').read(),
