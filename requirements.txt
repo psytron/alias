@@ -1,4 +1,4 @@
 ccxt
 v20
 alpaca-trade-api
-git+git://github.com/psytron/keycache#egg=keycache
+keycache

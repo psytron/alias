@@ -7,8 +7,7 @@ setup(
     author_email='m@psytron.com',
     packages=['alias'], # Needed to actually package
     install_requires=[
-        'keycache @ git+ssh://git@github.com/psytron/keycache#egg=keycache',
-        'sysfinger @ git+ssh://git@github.com/psytron/sysfinger#egg=sysfinger',
+        'keycache',
         'pandas',
         'alpaca_trade_api',
         'v20',
