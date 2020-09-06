@@ -1,5 +1,5 @@
 # Alias
-Alias enables simplified credential management for applying Python data science tools in crypto economic contexts.  Enabling support wallets, exchanges, APIs, shell protocols, providing orderbooks, trade data, time series and calculations are returned as composable Numpy / Dataframes and can be chained, stacked and grouped into aggregate DataFrames compatible with your favorite data science tools and machine learning libraries. 
+Alias enables simplified credential management for applying Python data science tools to crypto economics.  Enabling support wallets, exchanges, APIs, shell protocols, providing orderbooks, trade data, time series and calculations are returned as composable Numpy / Dataframes and can be chained, stacked and grouped into aggregate DataFrames compatible with your favorite data science tools and machine learning libraries. 
 
 Install
     
