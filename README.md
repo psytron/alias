@@ -44,6 +44,7 @@ a1.save() # writes encrypted blob
     
 ### Vehicle
 A Vehicle is a TAC (Transactable Asset Container) for any kind of transactable asset. It abstracts the differences between exchanges, wallets, APIs, or shell protocols. Vehicles expose a broad range of functionality while hiding the inner workings and eliminating the differences between underlying assets. Vehicles can be used to store, access, move, and analyze all of your holdings simultanously. 
+( moving to separate repo )
 
 Usage
                                               
