@@ -1,5 +1,5 @@
 # Alias
-Identity and asset containers for portfolio mass-management. Alias enables simplified private key management and operational concurrency of exchanges, wallets, APIs and shell protocols by using uniform containers. All orderbooks, trade data, time series and calculations are returned as composable Numpy / Dataframes and can be chained, stacked and grouped into aggregate DataFrames compatible with your favorite data science tools and machine learning libraries. Rnvl.
+Identity and asset containers for portfolio mass-management. Alias enables simplified private key management and operational concurrency of exchanges, wallets, APIs and shell protocols by using uniform containers. All orderbooks, trade data, time series and calculations are returned as composable Numpy / Dataframes and can be chained, stacked and grouped into aggregate DataFrames compatible with your favorite data science tools and machine learning libraries. Rnvlx.
 
 Install
     
